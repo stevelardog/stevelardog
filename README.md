@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevelardog
-- 👀 I’m interested in DUBS
-- 🌱 I’m currently learning CHECKING THEM
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on GAMES
 - 📫 How to reach me ;)
 
